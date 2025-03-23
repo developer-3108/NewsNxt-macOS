@@ -8,7 +8,7 @@ NewsNxt is a feature-rich macOS application that delivers the latest news from a
 
 ## Version History
 
-**v1.0 (Current Version)**
+**v1.0 (Current Version)** <a href = "https://drive.google.com/file/d/1iKWTUzZqn9YkbsrBuDs9KmzBepVBgO-l/view">**[Download Link]**</a>
 
 - **Email & Google Login:** Users can sign in using their email or Google accounts.
 - **News Aggregation:** Fetches news from the NewsData.io API, ensuring real-time updates.
